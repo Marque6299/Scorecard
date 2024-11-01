@@ -41,7 +41,7 @@ main {
     font-weight: bold;
 }
 
-.filter-container input {
+.filter-container select {
     padding: 8px;
     width: 80%;
     border: 1px solid #ccc;
