@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Aldaba, Lemarie",
+        "AM": "Solis, Flordeliza",
+        "LOB": "Lodging",
+        "Performance_AHT": 520.40,
+        "Status": "Failed",
+        "Reliability": "Failed",
+        "Absence": 1,
+        "Present_Days": 0,
+        "Prod_Hours_Less_7_5": 8,
+        "FCR": "400.00%",
+        "LC": "88.89%",
+        "Tracking": "1.45%",
+        "Dispo": "100.00%",
+        "Incentive_Status": "Passed"
+    },
+    {
+        "Name": "Aficionado, Hajji",
+        "AM": "Laure, Welma",
+        "LOB": "Expert Blended",
+        "Performance_AHT": 969.24,
+        "Status": "Failed",
+        "Reliability": "Failed",
+        "Absence": 2,
+        "Present_Days": 8,
+        "Prod_Hours_Less_7_5": 5,
+        "FCR": "100.00%",
+        "LC": "8.70%",
+        "Tracking": "1.00%",
+        "Dispo": "0.00%",
+        "Incentive_Status": "Failed"
+    }
+]
