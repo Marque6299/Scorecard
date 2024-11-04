@@ -4275,23 +4275,5 @@
         "Dispo": 0,
         "Post-Qualifier Amount": 0,
         "Incentive Status": "Failed"
-      },
-      {
-        "Name": "Zante, Jovejohn",
-        "AM": "Ubatay, Millycent",
-        "LOB": "Expert Blended",
-        "Performance_AHT": 725.016174585366,
-        "Initial Amount (AHT)": 0,
-        "Status": "Failed",
-        "Reliability": 0.9841936728395062,
-        "Absence": 0,
-        "Present Days": 8,
-        "Prod Hours Count Less 7.5": 7,
-        "FCR%": 0.7777777777777778,
-        "LC%": 0,
-        "Tracking %": 1,
-        "Dispo": 0.014925373134328358,
-        "Post-Qualifier Amount": 0,
-        "Incentive Status": "Failed"
     }
 ]
